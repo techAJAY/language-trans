@@ -1,1 +1,1 @@
-# language-trans
+# translator
